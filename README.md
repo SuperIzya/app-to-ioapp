@@ -1,5 +1,7 @@
 # From App to IOApp in a jiffy
 
+![app-vs-ioapp](./app-vs-ioapp.gif)
+
 When I've started my recent pet-project, I didn't knew anything about functional paradigm (except for the fact that it is very aesthetic way to write code). So I've started writing my application "by the book" as in defining `Main` class as seen in [docs](https://www.scala-lang.org/api/current/scala/App.html):
 
 ```scala
